@@ -9,7 +9,7 @@ project(Smart-Object)
 # Set the path additional cmake files must be searched for
 #
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_SOURCE_DIR}/cmake)
-
+set(CMAKE_BUILD_TYPE RelWithDebInfo)
 #
 # Make sure we are under Unix
 #
