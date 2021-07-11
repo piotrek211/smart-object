@@ -27,8 +27,8 @@ namespace argos {
   private:
 
       CSmartObjectEntity& m_cSmartObjectEntity;
-      cpFloat m_fCylinderLinearFriction = 1.49;
-      cpFloat m_fCylinderAngularFriction = 1.49;
+     // cpFloat m_fCylinderLinearFriction = 1.49;
+     // cpFloat m_fCylinderAngularFriction = 1.49;
    };
 
 }
